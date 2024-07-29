@@ -17,6 +17,7 @@ Le portfolio comprend les éléments suivants :
 ####  ✅ Redux
 ####  ✅ Axios
 ####  ✅ CSS personnalisé
+####  ✅ Sqlite
 
 ## $\\color{blue}{\\text{Prérequis :}}$
 ####  ✅ Node.js et npm installés sur votre machine.
