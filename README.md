@@ -32,6 +32,8 @@ npm install --legacy-peer-deps
 ```
 
 ## $\\color{blue}{\Lancer le Projet :}}$
+![Capture d’écran 2024-07-16 002538](https://github.com/user-attachments/assets/1ae49acd-1e7b-40c1-a151-ab657a269821)
+
 ### Démarrer le serveur de développement  :
 ```bash
 npm run dev
